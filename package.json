@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/omarchehab98/htv2-sockets.git"
+    "url": "git+https://github.com/omarchehab98/cryptonight-miner.git"
   },
   "author": "Omar Chehab <omarchehab98@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/omarchehab98/htv2-sockets/issues"
+    "url": "https://github.com/omarchehab98/cryptonight-miner/issues"
   },
-  "homepage": "https://github.com/omarchehab98/htv2-sockets#readme",
+  "homepage": "https://github.com/omarchehab98/cryptonight-miner#readme",
   "devDependencies": {
     "nodemon": "^1.14.11",
     "parcel-bundler": "^1.4.1",
